@@ -14,7 +14,7 @@ def read_params(config_path):
 
 def load_data(data_path,model_var):
     """
-    load csv dataset from given path
+    load csv dataset from given path 
     input: csv path 
     output:pandas dataframe 
     note: Only 6 variables are used in this model building stage for the simplicity.

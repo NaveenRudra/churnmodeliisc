@@ -26,7 +26,6 @@ input_data = {
     }
 }
 
-
 def test_form_response_incorrect_values(data=input_data["incorrect_values"]):
-    #res=form_response(data)
-    assert True
+    res=form_response(data)
+    assert res == NotANumber().message
