@@ -1,4 +1,6 @@
-renatl_bike_model
+[![Python application](https://github.com/NaveenRudra/churnmodeliisc/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/NaveenRudra/churnmodeliisc/actions/workflows/ci-cd.yaml)
+
+rental_bike_model
 ==============================
 
 ML model to predict rental bike
