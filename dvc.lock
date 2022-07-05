@@ -20,8 +20,8 @@ stages:
       md5: dc73c86273dfc5c9170a94003ffeaa08
       size: 27387
     - path: src/data/split_data.py
-      md5: dd39c5bbab3f1268349d16a164c53254
-      size: 1463
+      md5: 6272739641eacd8fa225246daf2ba328
+      size: 1460
     outs:
     - path: data/processed/churn_test.csv
       md5: 873c63af4c59b6fdf7be02d13b29b00a
