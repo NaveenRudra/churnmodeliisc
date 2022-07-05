@@ -1,9 +1,9 @@
 [![Python application](https://github.com/NaveenRudra/churnmodeliisc/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/NaveenRudra/churnmodeliisc/actions/workflows/ci-cd.yaml)
 
-rental_bike_model
+Customer Chun Classification
 ==============================
 
-ML model to predict rental bike
+Random Forest model to classify whether a customer will change telecommunication provider.
 
 Project Organization
 ------------
@@ -57,4 +57,4 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-# rental_bike
+# churnmodeliics
