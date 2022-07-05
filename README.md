@@ -1,6 +1,6 @@
 [![Python application](https://github.com/NaveenRudra/churnmodeliisc/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/NaveenRudra/churnmodeliisc/actions/workflows/ci-cd.yaml)
 
-Customer Chun Classification
+Customer Churn Classification
 ==============================
 
 Random Forest model to classify whether a customer will change telecommunication provider.
